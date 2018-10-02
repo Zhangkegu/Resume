@@ -74,8 +74,8 @@ html,body{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: #333333;
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #111111), color-stop(1, #333333));
+    background-color: palevioletred;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #111111), color-stop(1, palevioletred));
     background-image: -ms-linear-gradient(bottom, #111111, #333333);
     background-image: -moz-linear-gradient(bottom, #111111 0%, #333333 100%);
     background-image: -o-linear-gradient(bottom, #111111, #333333);
