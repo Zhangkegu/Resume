@@ -17,7 +17,7 @@ html,body{
     background-repeat: repeat-y;
 }
 .maininner .information{
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.3);
     height: 100vh;
     padding: 30px 60px;
     color: #fff;
