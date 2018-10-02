@@ -27,8 +27,8 @@ body,html{
 aside {
     position: fixed;
     z-index: 100;
-    background: deepskyblue;
-    background: linear-gradient(135deg,#2c2c2c 0,#202021 100%);
+    background: #202021;
+    background: linear-gradient(135deg,#2c2e2c 0,#202021 100%);
     top: 0;
     bottom: 0;
     left: 0;
