@@ -1,6 +1,7 @@
 html,body{
     color: plum;
-    overflow: hidden;
+    overflow: auto;
+
 }
 *{
     list-style: none;
@@ -13,6 +14,7 @@ html,body{
     background: url(../img/bg.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: repeat-y;
 }
 .maininner .information{
     background: rgba(0, 0, 0, 0.5);
