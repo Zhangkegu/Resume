@@ -22,7 +22,7 @@ html,body{
 	margin: auto;
 	width: 100%;
 	height: 80%;
-	background: plum;
+	background: purple;
     // background-image: linear-gradient(to bottom right,#f6f6f6,#edf3f0);
 }
 .main #echart{
