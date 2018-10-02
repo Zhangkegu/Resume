@@ -28,7 +28,7 @@ aside {
     position: fixed;
     z-index: 100;
     background: purple;
-    background: linear-gradient(135deg,#2c2e2c 0,#202021 100%);
+    background: linear-gradient(135deg,purple 0,rebeccapurple 100%);
     top: 0;
     bottom: 0;
     left: 0;
