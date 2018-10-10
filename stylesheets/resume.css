@@ -10,7 +10,7 @@ html,body{
     padding-left: 250px;
 }
 .maininner{
-    background: url(../img/mo.jpg) fixed;
+    background: url(../img/good.jpg) repeat-y;
     background-position: center;
     background-size: cover;
 }
@@ -18,9 +18,11 @@ html,body{
     background: rgba(0, 0, 0, 0.1);
     height: 100vh;
     padding: 30px 60px;
-    color: white;
+    color: indigo;
+    font-weight: bolder;
     position: relative;
     text-align: left;
+    font-family:宋体;
 }
 .maininner .information .title{
     font-size: 28px;
