@@ -40,7 +40,7 @@
 				</ul>
 				<div id="footer">
 					<p class="source">
-					Open source:<a href="https://github.com/Zegendary/Garbage" target="_blank">GitHub</a>
+					Open source:<a href="https://github.com/Zhangkegu/Resume" target="_blank">GitHub</a>
 					<br>
 					<span class="right">© copyright 张明鑫,2018</span>
 					</p>
@@ -62,7 +62,6 @@
 					<h4>写脚本，逻辑清晰，代码精简</h4>
 					<li>熟练使用jQuery库</li>
 					<li>熟练使用原生javascript写组件，也会用jquery写插件</li>
-					<li>了解NodeJS</li>
 					<li>熟悉Bootstrap等前端框架工具</li>
 					<li>注重代码简洁性，可重用性，提升开发效率</li>
 				</ul>
@@ -70,12 +69,12 @@
 
 		</div>
 	</div>
-	<script src="https://oapy20uns.qnssl.com/jquery-1.12.4.min.js"></script>
-	<script src="https://oapy20uns.qnssl.com/echarts.min.js"></script>
+	<script src="./javascript/jquery-1.12.4.min.js"></script>
+	<script src="./javascript/echarts.min.js"></script>
 	<script>
 		$('.menu').on('click',function(){
 			$('aside').toggleClass('active')
-		})
+		});
 		var myChart = echarts.init(document.getElementById('echart'));
 		var option = {
 		    title: {
@@ -105,7 +104,7 @@
 		        // areaStyle: {normal: {}},
 		        data : [
 		            {
-		                value : [85, 85, 80, 70, 75, 80, 80, 85],
+		                value : [85, 85, 80, 75, 75, 80, 80, 85],
 		                name : '能力'
 		            },
 		            {
