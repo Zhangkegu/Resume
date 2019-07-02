@@ -47,6 +47,9 @@ html,body{
 	.project-items>a.project-item4:hover{
 		background: #d46b2b;
 	}
+	.project-items>a.project-item5:hover{
+		background: #d66b2c;
+	}
 	.project-items>a>img{
 		width: 100%;
 		height: auto;
